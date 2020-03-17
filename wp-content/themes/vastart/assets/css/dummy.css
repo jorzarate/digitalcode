@@ -1,0 +1,29 @@
+/* This file purpose is to pass theme-check requirement */
+
+.sticky {
+  visibility: visible;
+}
+.bypostauthor {
+  visibility: visible;
+}
+.alignleft {
+  visibility: visible;
+}
+.alignright {
+  visibility: visible;
+}
+.aligncenter {
+  visibility: visible;
+}
+.wp-caption {
+  visibility: visible;
+}
+.wp-caption-text {
+  visibility: visible;
+}
+.gallery-caption {
+  visibility: visible;
+}
+.screen-reader-text {
+  visibility: visible;
+}

@@ -1,0 +1,11 @@
+li#accordion-section-vastart_upsell_section h3 .vastart_upsell {
+    text-decoration: none;
+}
+
+li#accordion-section-vastart_upsell_section h3 {
+    margin-left: 20px;
+}
+
+li#accordion-section-vastart_upsell_section {
+    display: block !important;
+}

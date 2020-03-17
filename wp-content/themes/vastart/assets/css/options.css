@@ -1,0 +1,31 @@
+.welcome {
+  margin-right: 200px;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+.logo {
+    position: absolute;
+    top: 20px;
+    right: 20px;
+    padding-top: 60px;
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+
+.vastart_videoWrapper {
+	position: relative;
+	padding-bottom: 56.25%; /* 16:9 */
+	padding-top: 25px;
+    height: 0;
+    max-width: 1280px;
+}
+.vastart_videoWrapper iframe {
+	position: absolute;
+	top: 0;
+	left: 0;
+	width: 100%;
+    height: 100%;
+    max-width: 1280px;
+}
+#n2-ss-add-license-key { display:none; }
