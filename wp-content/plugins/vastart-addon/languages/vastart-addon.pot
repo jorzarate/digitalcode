@@ -1,0 +1,62 @@
+# Copyright (C) 2019 Vastart Addon Plugin
+# This file is distributed under the same license as the Vastart Addon Plugin package.
+msgid ""
+msgstr ""
+"Project-Id-Version: Vastart Addon Plugin\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-KeywordsList: __;_e;_ex:1,2c;_n:1,2;_n_noop:1,2;_nx:1,2,4c;_nx_noop:1,2,3c;_x:1,2c;esc_attr__;esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: inc/hooks.php:64
+msgid "Vastart Options"
+msgstr ""
+
+#: inc/hooks.php:83
+msgid "Hide Title"
+msgstr ""
+
+#: inc/hooks.php:156
+msgid "Vastart Breadcrumbs Options"
+msgstr ""
+
+#: inc/hooks.php:178
+msgid "Same as Customizer Setting"
+msgstr ""
+
+#: inc/hooks.php:179
+msgid "Hide Breadcrumbs"
+msgstr ""
+
+#: templates-parts/1-click-support/layout.php:37
+msgid "1-Click Support"
+msgstr ""
+
+#: templates-parts/1-click-support/layout.php:39
+msgid "With this feature you can contact our Support System using our Beacon icon on the bottom right corner on the WordPress Dasboard. Easier support without leaving your site."
+msgstr ""
+
+#: templates-parts/1-click-support/pre-register.php:12
+msgid "First, you need to verify your purchase of the theme before you can use the feature."
+msgstr ""
+
+#: templates-parts/1-click-support/pre-register.php:14
+msgid "Don't worry, it will only takes a few moments :)"
+msgstr ""
+
+#: templates-parts/1-click-support/pre-register.php:17
+msgid "Subscribe our newsletter"
+msgstr ""
+
+#: templates-parts/1-click-support/pre-register.php:18
+msgid "Verify Your ENVATO Account"
+msgstr ""
+
+#: templates-parts/1-click-support/registered.php:11
+msgid "Thank you for verify your account"
+msgstr ""
