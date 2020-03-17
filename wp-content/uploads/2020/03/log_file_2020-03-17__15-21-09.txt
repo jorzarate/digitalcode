@@ -1,0 +1,50 @@
+
+---Downloaded files---
+The import files for: Vastart Marketing were successfully downloaded!
+Initial max execution time = 120
+Files info:
+Site URL = http://localhost/digitalcode
+Data file = C:\xampp\htdocs\digitalcode/wp-content/uploads/2020/03/demo-content-import-file_2020-03-17__15-21-09.xml
+Widget file = C:\xampp\htdocs\digitalcode/wp-content/uploads/2020/03/demo-widgets-import-file_2020-03-17__15-21-09.json
+Customizer file = C:\xampp\htdocs\digitalcode/wp-content/uploads/2020/03/demo-customizer-import-file_2020-03-17__15-21-09.dat
+Redux files:
+not defined!
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+---Importing widgets---
+Sidebar : 
+
+Buscar - No Title - Widget already exists
+Entradas recientes - No Title - Widget already exists
+Comentarios recientes - No Title - Widget already exists
+Archivos - No Title - Widget already exists
+Categorías - No Title - Widget already exists
+Meta - No Title - Widget already exists
+Buscar - search - Imported
+KC Content - ceo message - Imported
+KC Content - social media - Imported
+Calendario - calendar - Imported
+Vídeo - what we do - Imported
+Entradas recientes - recent posts - Imported
+KC Content - gallery - Imported
+Nube de etiquetas - tags - Imported
+Categorías - categories - Imported
+
+Footer Column 1 : 
+
+KC Content - No Title - Imported
+
+
+
+---Importing customizer settings---
+Customizer settings import finished!
+
+---vt-VAST_OCDI/after_import---
+
